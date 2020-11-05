@@ -1,6 +1,6 @@
 
-Here we analysed RNA-sequencing read data from two Drosophila tissue samples. AssignmentScript is the script submitted 
-to the HPC completed in non-discovery mode where we the transcriptome was a GTF file for the Drosophila genome. 
+Here we analysed RNA-sequencing read data from two Drosophila tissue samples. AssignmentScript.sh is the script submitted 
+to the HPC completed in non-discovery mode where the reference transcriptome was a GTF file for the Drosophila genome. 
 
 The file FinalLoopDiscov.sh is a similar script however this time we allowed for discovery by creating our own 
 sample-specific transcriptome as a reference. 
