@@ -9,4 +9,4 @@ The file AssignmentRScript.R is taking the generated .csv files from the non-dis
 DE analysis using DESeq2 and creating an MA plot to observe LFC shrinkage between the two tissue samples.
 
 PP_script.sh is a script submitted to the HPC when we did our Pathogen Polyomics module investigating the genetic basis
-of amphotericin B resistant Leismania mexicana.
+of amphotericin B resistance in Leishmania mexicana.
